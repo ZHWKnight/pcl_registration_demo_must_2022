@@ -12,7 +12,7 @@ A demo for point cloud registration, is a part of the presentation in Fundamenta
 sudo apt install build-essential cmake git libpcl-dev -y
 
 ## 2. clone source code
-git clone
+git clone https://github.com/ZHWKnight/pcl_registration_demo_must_2022.git
 
 ## 3. Complie
 cd pcl_registration_demo_must_2022
@@ -27,6 +27,10 @@ make
 ```
 
 ## Reference materials
+
+### PCL
+
+[PointCloudLibrary](https://pointclouds.org/)
 
 ### ICP
 
